@@ -1,0 +1,10 @@
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues GUI.csproj.AssemblyReference.cache
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\bin\Debug\Konvertues GUI.exe.config
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\bin\Debug\Konvertues GUI.exe
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\bin\Debug\Konvertues GUI.pdb
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues_GUI.Form1.resources
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues_GUI.Properties.Resources.resources
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues GUI.csproj.GenerateResource.cache
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues GUI.csproj.CoreCompileInputs.cache
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues GUI.exe
+C:\Users\aldom\OneDrive\Documents\Konvertues GUI\Konvertues GUI\obj\Debug\Konvertues GUI.pdb

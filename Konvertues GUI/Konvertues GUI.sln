@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konvertues GUI", "Konvertues GUI\Konvertues GUI.csproj", "{4B1F86D8-FE63-4013-B1C7-4B7622E542D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1F86D8-FE63-4013-B1C7-4B7622E542D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1F86D8-FE63-4013-B1C7-4B7622E542D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1F86D8-FE63-4013-B1C7-4B7622E542D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1F86D8-FE63-4013-B1C7-4B7622E542D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5E0399-1017-466B-B2CE-9C4DD997B47D}
+	EndGlobalSection
+EndGlobal
